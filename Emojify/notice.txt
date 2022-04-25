@@ -1,0 +1,2 @@
+test and train data has not been uploaded asthe file size was too large
+you can download the dataset from https://www.kaggle.com/datasets/msambare/fer2013
